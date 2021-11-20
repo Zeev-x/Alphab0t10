@@ -6,6 +6,7 @@
 	"anti_delete" : true,
 	"anticall": true,
 	"prefix": ".",
+        "simple": true,
 	"language":"ind",
 	"ownerNumber": "6285755007597",
 	"ownerNumberr": "6285755007597",
